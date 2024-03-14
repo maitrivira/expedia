@@ -1,0 +1,28 @@
+.brand {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0% 7.5%;
+    background-image: url(/assets/image/others/brand-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    pointer-events: none;
+}
+
+.brand-image {
+    height: 85px;
+    padding: 5%;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .brand {
+        padding: 10% 7.5%;
+    }
+
+    .brand-image {
+        padding: 0;
+    }
+}

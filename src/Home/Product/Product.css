@@ -1,0 +1,141 @@
+.product {
+    background-color: #EDF1D7;
+    padding: 5% 7.5%;
+}
+
+.product-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.product-menu {
+    height: 360px;
+    width: 360px;
+    margin: 26px 48px 26px 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 8px;
+    position: relative;
+    transition: 0.5s ease-in-out;
+    color: white;
+}
+
+.product-menu:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: #363537;
+    z-index: 1;
+    transition: 0.5s all;
+    opacity: 0;
+    color: transparent;
+}
+
+.product-menu:hover:before {
+    opacity: 0.7;
+    color: transparent;
+}
+
+.product-menu img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.product-menu-info-full {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    color: inherit;
+}
+
+.product-menu-title-full {
+    display: block;
+    text-align: center;
+    padding-top: 40%;
+    font-size: 28px;
+    font-weight: 800;
+    opacity: 1;
+    color: inherit;
+}
+
+.product-menu-info {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    opacity: 0;
+}
+
+.product-menu-info:hover {
+    opacity: 1;
+}
+
+.product-menu-title {
+    display: block;
+    text-align: center;
+    padding-top: 35%;
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.product-title {
+    font-size: 32px;
+    font-weight: 800;
+    color: #363537;
+}
+
+.product-menu-button {
+    background-color: transparent;
+    display: block;
+    border-style: none;
+    margin: 0 auto;
+    font-size: 16px;
+    color: white;
+}
+
+.product-menu-button:focus {
+    outline: 0;
+}
+
+.hideInfo {
+    opacity: 0;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .product-container {
+        justify-content: space-around;
+    }
+
+    .product-title {
+        font-size: 20px;
+        padding: 30px 20px;
+        text-align: center;
+    }
+
+    .product-menu {
+        height: 145px;
+        width: 45%;
+        margin: 10px 0;
+    }
+
+    .product-menu-title-full {
+        font-size: 18px;
+    }
+
+    .product-menu-button, .product-menu-title {
+        font-size: 14px;
+    }
+}

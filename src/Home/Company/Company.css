@@ -1,0 +1,69 @@
+.company {
+    background-color: white;
+    text-align: center;
+    background-size: cover;
+    background-image: url(/assets/image/others/company-bg.jpg);
+}
+
+.company-primary {
+    color: black;
+    font-size: 32px;
+    font-weight: 100;
+    padding: 50px 0px;
+}
+
+.company-primary-title {
+    display: block;
+}
+
+.company-primary-sub {
+    display: block;
+    padding: 0% 7.5%;
+}
+
+.company-primary-sub-black {
+    color: #363537;
+    font-weight: 600;
+}
+
+.arrow-down {
+    height: 36px;
+    padding: 10px 0px;
+}
+
+.company-value {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    color: black;
+    padding: 5% 15%;
+}
+
+.company-value-item {
+    padding: 30px 20px;
+}
+
+.company-value-image {
+    width: 60px;
+}
+
+.company-value-sub {
+    display: block;
+    font-size: 20px;
+    font-weight: 800;
+    color: #6DB166;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .company {
+        padding-bottom: 30px;
+    }
+
+    .company-primary {
+        font-size: 20px;
+    }
+}

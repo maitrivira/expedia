@@ -1,0 +1,20 @@
+.results-list {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+.result-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.result-text {
+    padding: 10px 0;
+    font-size: 14px;
+    color: #363537;
+}

@@ -1,0 +1,23 @@
+.footed-small-screen {
+    display: none;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .bg-small {
+        margin-bottom: 80px;
+        background-color: white;
+    }
+
+    .display-none {
+        display: none;
+    }
+
+    .footed-small-screen {
+        display: block;
+        background: white;
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+    }
+}

@@ -1,0 +1,172 @@
+.footer {
+    background-color: white;
+    background-size: cover;
+    background-image: url(/assets/image/others/footer-bg.jpg);
+    padding: 7% 7.5%;
+    color: black;
+}
+
+.footer-brand-title {
+    display: block;
+    padding: 5%;
+    font-size: 32px;
+    font-weight: 800;
+    color: black;
+}
+
+.footer-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-brand {
+    width: 40%;
+}
+
+.footer-product-title {
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.footer-product-subtitle {
+    font-size: 14px;
+    padding: 3px 0px;
+}
+
+.footer-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 5% 0% 0% 0%;
+    user-select: text;
+}
+
+.footer-bottom-text-left {
+    background-color: transparent;
+    border-width: 0;
+    border-color: transparent;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0;
+}
+
+.flag {
+    height: 24px;
+    width: 24px;
+    padding-right: 10px;
+}
+
+.footer-bottom-text-left:focus {
+    outline: 0 !important;
+}
+
+.footer-bottom-text-right {
+    display: block;
+    text-align: right;
+}
+
+.footer-bottom-text-right-italic {
+    font-style: italic;
+}
+
+.footer-bottom-text-right-underline {
+    text-decoration-line: underline;
+}
+
+.footer-icon {
+    width: 100%;
+    pointer-events: none;
+}
+
+.line {
+    height: 2px;
+    background-color: #ADACAF;
+    margin-top: 150px;
+}
+
+.disable-small-screen {
+    display: none;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .disable-large-screen {
+        display: none;
+    }
+    
+    .disable-small-screen {
+        display: block;
+    }
+
+    .line {
+        margin-top: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .footer-brand {
+        width: 100%;
+    }
+
+    .footer-brand-title{
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .footer-product-category {
+        padding: 5% 0 0 5%;
+        width: 45%;
+    }
+    
+    .footer-company {
+        padding: 5% 0 0 0;
+        width: 50%;
+    }
+
+    .footer-bottom-text-left {
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        text-decoration-line: underline;
+    }
+
+    .footer-bottom-text-right {
+        text-align: center;
+        font-style: normal;
+        font-size: 14px;
+    }
+
+    .disable {
+        visibility: hidden;
+    }
+
+    .footer-bottom-first {
+        padding: 5% 0%;
+        width: 100%;
+    }
+
+    .footer-bottom-second {
+        padding: 5% 0%;
+        width: 100%;
+    }
+
+    .footer-bottom-text-right-underline {
+        text-decoration-line: none;
+    }
+
+    .footer {
+        padding: 7% 0;
+    }
+
+    .footer-icon {
+        height: 50px;
+        object-fit: cover;
+        width: 100%;
+        padding: 5% 0%;
+    }
+}

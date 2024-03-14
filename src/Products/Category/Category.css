@@ -1,0 +1,160 @@
+.category {
+    background-color: white;
+    margin: 100px 0;
+}
+
+.category-mobile ul {
+    display: none;
+}
+
+.category-title1 {
+    font-size: 12px;
+    color: black;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.category-title2 {
+    font-size: 16px;
+    color: #8F8D91;
+    font-weight: 800;
+    padding: 4px 0;
+}
+
+.category-title3 {
+    font-size: 16px;
+    color: black;
+    padding: 4px 12px;
+    border-radius: 20px;
+    background-color: #F0F3F7;
+}
+
+.category-subtitle {
+    font-size: 16px;
+    color: #8F8D91;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-left: 3px solid #EBEAEB;
+}
+
+.category-coming-soon {
+    font-size: 16px;
+    color: #AEC2B6;
+    font-weight: 800;
+    padding: 4px 0;
+}
+
+.category-coming-soon-icon {
+    font-size: 10px;
+    color: white;
+    font-weight: 800;
+    padding: 2px 5px;
+    background-color: #E02954;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.scrollable-tabs {
+    background: white;
+    overflow: hidden;
+    position: relative;
+    padding: 8px 7%;
+}
+
+.scrollable-tabs ul {
+    display: flex;
+    gap: 16px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    overflow-x: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
+
+.scrollable-tabs ul::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollable-tabs a {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    user-select: none;
+}
+
+.scrollable-tabs a.active {
+    background: #ECFEF4;
+    color: #6DB166;
+    border: 1px solid #6DB166;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .scrollable-tabs {
+        padding: 8px 16px;
+    }
+
+    .scrollable-tabs a {
+        border-radius: 20px;
+    }
+
+    .category {
+        display: none;
+    }
+
+    .category-subtitle {
+        display: none;
+    }
+
+    .category-mobile {
+        padding-top: 80px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-bottom: 16px;
+        background: white;
+        overflow: hidden;
+        position: relative;
+    }
+    
+    .category-mobile ul {
+        display: flex;
+        gap: 16px;
+        padding: 0;
+        margin: 0;
+        width: max-content;
+        list-style: none;
+        overflow-x: scroll;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+    
+    .category-mobile ul::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .category-mobile a {
+        color: #363537;
+        text-decoration: none;
+        background: #F0F3F7;
+        padding: 4px 24px;
+        display: inline-block;
+        user-select: none;
+        font-size: 14px;
+    }
+    
+    .category-mobile a.active {
+        background: #ECFEF4;
+        color: #6DB166;
+        border: 1px solid #6DB166;
+    }
+
+    .product-items-menu {
+        padding-top: 70px;
+        padding-bottom: 10px;
+    }
+}

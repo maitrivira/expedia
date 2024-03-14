@@ -1,0 +1,1297 @@
+[
+    {
+        "productL0": {
+            "name": "Durian",
+            "image": "/assets/image/product/durian/montong_palu/2.jpeg",
+            "code_lang": "products-list.durian",
+            "show_sub_category": false,
+            "data_sub_categories": [
+                {
+                    "name": "Montong"
+                },
+                {
+                    "name": "Musang King"
+                },
+                {
+                    "name": "Medan"
+                }
+            ],
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 1,
+                    "product_name": "Durian",
+                    "name": "Durian Montong Palu",
+                    "image": "/assets/image/product/durian/montong_palu/1.jpeg",
+                    "data_sub_category": "Montong",
+                    "varian": ["Pile 5 Kg", "Tray 500 Gr"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/durian/montong_palu/1.jpeg"},
+                        {"image": "/assets/image/product/durian/montong_palu/2.jpeg"},
+                        {"image": "/assets/image/product/durian/montong_palu/3.jpeg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste", 
+                            "value_en": "Sweet & Fresh",
+                            "key_id": "Rasa", 
+                            "value_id": "Manis & Segar"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Soft & Creamy",
+                            "key_id": "Tekstur", 
+                            "value_id": "Lembut & Creamy"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Yellow",
+                            "key_id": "Warna", 
+                            "value_id": "Kuning"
+                        },
+                        {
+                            "key_en": "Seeds", 
+                            "value_en": "Small Seeds",
+                            "key_id": "Biji", 
+                            "value_id": "Biji Kecil"
+                        },
+                        {
+                            "key_en": "Briks", 
+                            "value_en": ">32%",
+                            "key_id": "Brik", 
+                            "value_id": ">32%"
+                        }
+                    ],
+                    "hscode": "08119000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Durian Montong selalu menjadi pilihan karena daging buah yang lebih besar dari varian lain",
+                            "desc_en": "Sweet and fragrant aroma made Indonesia's local grown vanilla become one of the most popular natural commodities, especially with its suitable tropical climate"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Dinominasikan sebagai Raja Buah, kabarnya Durian Montong berasal dari Kalimantan, Indonesia. Dengan rasa yang manis, creamy and wangi, buah ini menjadi salah satu buah favorit di dunia. \n\nSiap ekspor global, dengan klien yang puas dari: Cina, Hongkong, Malaysia, Vietnam, Timur Tengah, Qatar and Eropa dan negara lainnya",
+                            "story_en": "Rumored to be the king of fruit, it is said that Durian Montong originated in Kalimantan, Indonesia. With sweet, fragrant and creamy taste, this fruit quickly becomes favorites around the globe.\n\nGlobal coverage of shipment with satisfied clients from: China, Hongkong, Malaysia, Vietnam, Middle East, Qatar and Europe"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "product_name": "Durian",
+                    "name": "Durian Montong Bali",
+                    "image": "/assets/image/product/durian/montong_bali/1.png",
+                    "data_sub_category": "Montong",
+                    "varian": ["Pile 5 Kg", "Tray 500 Gr"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/durian/montong_bali/1.png"},
+                        {"image": "/assets/image/product/durian/montong_bali/2.png"},
+                        {"image": "/assets/image/product/durian/montong_bali/3.png"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste", 
+                            "value_en": "Sweet & Fresh",
+                            "key_id": "Rasa", 
+                            "value_id": "Manis & Segar"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Soft & Creamy",
+                            "key_id": "Tekstur", 
+                            "value_id": "Lembut & Creamy"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Yellow",
+                            "key_id": "Warna", 
+                            "value_id": "Kuning"
+                        },
+                        {
+                            "key_en": "Seeds", 
+                            "value_en": "Small Seeds",
+                            "key_id": "Biji", 
+                            "value_id": "Biji Kecil"
+                        },
+                        {
+                            "key_en": "Briks", 
+                            "value_en": ">28%",
+                            "key_id": "Brik", 
+                            "value_id": ">28%"
+                        }
+                    ],
+                    "hscode": "08119000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Durian Montong selalu menjadi pilihan karena daging buah yang lebih besar dari varian lain",
+                            "desc_en": "Sweet and fragrant aroma made Indonesia's local grown vanilla become one of the most popular natural commodities, especially with its suitable tropical climate"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Dinominasikan sebagai Raja Buah, kabarnya Durian Montong berasal dari Kalimantan, Indonesia. Dengan rasa yang manis, creamy and wangi, buah ini menjadi salah satu buah favorit di dunia. \n\nSiap ekspor global, dengan klien yang puas dari: Cina, Hongkong, Malaysia, Vietnam, Timur Tengah, Qatar and Eropa dan negara lainnya",
+                            "story_en": "Rumored to be the king of fruit, it is said that Durian Montong originated in Kalimantan, Indonesia. With sweet, fragrant and creamy taste, this fruit quickly becomes favorites around the globe.\n\nGlobal coverage of shipment with satisfied clients from: China, Hongkong, Malaysia, Vietnam, Middle East, Qatar and Europe"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "product_name": "Durian",
+                    "name": "Durian Musang King Pahang Malaysia",
+                    "image": "/assets/image/product/durian/musang_king_pahang/1.png",
+                    "data_sub_category": "Musang King",
+                    "varian": ["Pile 5 Kg", "Tray 500 Gr"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/durian/musang_king_pahang/1.png"},
+                        {"image": "/assets/image/product/durian/musang_king_pahang/2.png"},
+                        {"image": "/assets/image/product/durian/musang_king_pahang/3.png"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste", 
+                            "value_en": "Sweet & Bitter",
+                            "key_id": "Rasa", 
+                            "value_id": "Manis & Pahit"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Soft & Creamy",
+                            "key_id": "Tekstur", 
+                            "value_id": "Lembut & Creamy"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Yellow Gold",
+                            "key_id": "Warna", 
+                            "value_id": "Kuning Emas"
+                        },
+                        {
+                            "key_en": "Seeds", 
+                            "value_en": "Deflated Seeds",
+                            "key_id": "Benih", 
+                            "value_id": "Benih Kempes"
+                        },
+                        {
+                            "key_en": "Briks", 
+                            "value_en": ">32%",
+                            "key_id": "Brik", 
+                            "value_id": ">32%"
+                        }
+                    ],
+                    "hscode": "08119000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Varian Musang King dikenal dengan warna daging emasnya dan biji yang tipis",
+                            "desc_en": "Musang King is very well known for its golden color and thin seeds inside"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Kadang dikenal karena harganya yang mahal, ternyata durian Musang King punya rasa yang sangat lezat dan memuaskan. Sangat worth it! \nSiap ekspor global, dengan klien yang puas dari: Cina, Hongkong, Malaysia, Vietnam, Timur Tengah, Qatar and Eropa",
+                            "story_en": "Musang King variant sometimes known for its premium price, but very worth the price with its royal sweet taste which makes it very popular.\n Global coverage of shipment with satisfied clients from: China, Hongkong, Malaysia, Vietnam, Middle East, Qatar and Europe"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "product_name": "Durian",
+                    "name": "Durian Medan",
+                    "image": "/assets/image/product/durian/medan/1.png",
+                    "data_sub_category": "Medan",
+                    "varian": ["Pile 5 Kg", "Tray 500 Gr"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/durian/medan/1.png"},
+                        {"image": "/assets/image/product/durian/medan/2.png"},
+                        {"image": "/assets/image/product/durian/medan/3.png"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste", 
+                            "value_en": "Sweet & Bitter",
+                            "key_id": "Rasa", 
+                            "value_id": "Manis & Pahit"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Soft & Creamy",
+                            "key_id": "Tekstur", 
+                            "value_id": "Lembut & Creamy"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Cream",
+                            "key_id": "Warna", 
+                            "value_id": "krem"
+                        },
+                        {
+                            "key_en": "Seeds", 
+                            "value_en": "Medium-Big Seeds",
+                            "key_id": "Benih", 
+                            "value_id": "Benih Sedang-Besar"
+                        },
+                        {
+                            "key_en": "Briks", 
+                            "value_en": ">28%",
+                            "key_id": "Brik", 
+                            "value_id": ">28%"
+                        }
+                    ],
+                    "hscode": "08119000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Salah satu durian yang cukup langka dan hanya ada di Indonesia, dikenal dengan rasanya yang sangat manis",
+                            "desc_en": "One of rare durian variant known for it's deeply sweet flavor, only found in Indonesia"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Durian Medan sangat populer karena rasanya yang manis dan lezat, dan juga terhitung langka karena hanya dapat ditemukan di Sumatra, Indonesia. Dengan pesan di expediaig, semua bisa merasakan Durian Medan dari seluruh dunia.\n\nSiap ekspor global, dengan klien yang puas dari: Cina, Hongkong, Malaysia, Vietnam, Timur Tengah, Qatar and Eropa",
+                            "story_en": "Durian Medan is very popular for its sweet and tasty flavor, but also hard to find due to its remote location in Sumatra, Indonesia. Now with expediaig, you can taste the renowned Durian Medan from anywhere in the world.\n\nGlobal coverage of shipment with satisfied clients from: China, Hongkong, Malaysia, Vietnam, Middle East, Qatar and Europe"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productL0": {
+            "name": "Vanilla",
+            "image": "/assets/image/product/vanilla/vanilla_plani_grade_b/1.jpeg",
+            "code_lang": "products-list.vanilla",
+            "show_sub_category": true,
+            "data_sub_categories": ["Planifolia", "Tahiti"],
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 5,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Beans Plani Grade A",
+                    "image": "/assets/image/product/vanilla/vanilla_plani_grade_a/1.jpeg",
+                    "data_sub_category": "Planifolia",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_a/1.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_a/2.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_a/3.jpeg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "18 cm",
+                            "key_id": "Ukuran", 
+                            "value_id": "18 cm"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Black/Black Brown",
+                            "key_id": "Warna", 
+                            "value_id": "Hitam/Hitam Coklat"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "25% - 35%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "25% - 35%"
+                        }
+                    ],
+                    "hscode": "09051000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Rasa manis dan enak membuat Vanila Indonesia menjadi salah satu komoditas terpopuler, terlebih kondisi penanaman yang cocok di iklim tropis",
+                            "desc_en": "Sweet and fragrant aroma made Indonesia's local grown vanilla become one of the most popular natural commodities, especially with its suitable tropical climate"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Baik untuk campuran kue, parfum, minuman, kosmetik maupun aromaterapi, vanilla Planifolia melengkapi cita rasa olahan produkmu. Vanila ini dikenal sebagai salah satu komoditas yang bermanfaat sebagai bahan penambah rasa dan aroma yang unik.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura dan negara lainnya",
+                            "story_en": "Whether for mixture of cakes, perfumes, drinks, cosmetics or aromatheraphy, vanilla completes the flavor, especially Indonesian Vanilla Planifolia. This vanilla is known as one of the most useful commodities to enhance the taste and aroma of your product, due to it's unique and fragrant smell.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Beans Plani Grade B",
+                    "image": "/assets/image/product/vanilla/vanilla_plani_grade_b/1.jpeg",
+                    "data_sub_category": "Planifolia",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_b/1.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_b/2.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_b/3.jpeg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "16 cm - 18 cm",
+                            "key_id": "Ukuran", 
+                            "value_id": "16 cm - 18 cm"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Black/Black Brown",
+                            "key_id": "Warna", 
+                            "value_id": "Coklat/Hitam Coklat"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "25% - 35%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "25% - 35%"
+                        }
+                    ],
+                    "hscode": "09051000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Rasa manis dan enak membuat Vanila Indonesia menjadi salah satu komoditas terpopuler, terlebih kondisi penanaman yang cocok di iklim tropis",
+                            "desc_en": "Sweet and fragrant aroma made Indonesia's local grown vanilla become one of the most popular natural commodities, especially with its suitable tropical climate"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Baik untuk campuran kue, parfum, minuman, kosmetik maupun aromaterapi, vanilla Planifolia melengkapi cita rasa olahan produkmu. Vanila ini dikenal sebagai salah satu komoditas yang bermanfaat sebagai bahan penambah rasa dan aroma yang unik.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura dan negara lainnya",
+                            "story_en": "Whether for mixture of cakes, perfumes, drinks, cosmetics or aromatheraphy, vanilla completes the flavor, especially Indonesian Vanilla Planifolia. This vanilla is known as one of the most useful commodities to enhance the taste and aroma of your product, due to it's unique and fragrant smell.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Beans Plani Grade C",
+                    "image": "/assets/image/product/vanilla/vanilla_plani_grade_c/1.jpg",
+                    "data_sub_category": "Planifolia",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_c/1.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_c/2.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_grade_c/3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "15 cm - 15,9 cm",
+                            "key_id": "Ukuran", 
+                            "value_id": "15 cm - 15,9 cm"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Black/Black Brown",
+                            "key_id": "Warna", 
+                            "value_id": "Hitam/Hitam Coklat"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "25% - 30%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "25% - 30%"
+                        }
+                    ],
+                    "hscode": "09051000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Rasa manis dan enak membuat Vanila Indonesia menjadi salah satu komoditas terpopuler, terlebih kondisi penanaman yang cocok di iklim tropis",
+                            "desc_en": "Sweet and fragrant aroma made Indonesia's local grown vanilla become one of the most popular natural commodities, especially with its suitable tropical climate"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Baik untuk campuran kue, parfum, minuman, kosmetik maupun aromaterapi, vanilla Planifolia melengkapi cita rasa olahan produkmu. Vanila ini dikenal sebagai salah satu komoditas yang bermanfaat sebagai bahan penambah rasa dan aroma yang unik.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura dan negara lainnya",
+                            "story_en": "Whether for mixture of cakes, perfumes, drinks, cosmetics or aromatheraphy, vanilla completes the flavor, especially Indonesian Vanilla Planifolia. This vanilla is known as one of the most useful commodities to enhance the taste and aroma of your product, due to it's unique and fragrant smell.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Powder Planifolia",
+                    "image": "/assets/image/product/vanilla/vanilla_plani_powder/1.jpeg",
+                    "data_sub_category": "Planifolia",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_powder/1.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_powder/2.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_plani_powder/3.jpeg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "Mesh 60",
+                            "key_id": "Ukuran", 
+                            "value_id": "Mesh 60"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "5-7%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "5-7%"
+                        },
+                        {
+                            "key_en": "Vanilin", 
+                            "value_en": "0.5 - 1.5%",
+                            "key_id": "Vanilin", 
+                            "value_id": "0.5 - 1.5%"
+                        }
+                    ],
+                    "hscode": "09052000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Rasa manis dan enak membuat Vanila Indonesia menjadi salah satu komoditas terpopuler, terlebih kondisi penanaman yang cocok di iklim tropis",
+                            "desc_en": "Sweet and fragrant aroma made Indonesia's local grown vanilla become one of the most popular natural commodities, especially with its suitable tropical climate"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Baik untuk campuran kue, parfum, minuman, kosmetik maupun aromaterapi, vanilla Planifolia melengkapi cita rasa olahan produkmu. Vanila ini dikenal sebagai salah satu komoditas yang bermanfaat sebagai bahan penambah rasa dan aroma yang unik.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura dan negara lainnya",
+                            "story_en": "Whether for mixture of cakes, perfumes, drinks, cosmetics or aromatheraphy, vanilla completes the flavor, especially Indonesian Vanilla Planifolia. This vanilla is known as one of the most useful commodities to enhance the taste and aroma of your product, due to it's unique and fragrant smell.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Beans Tahiti Grade A",
+                    "image": "/assets/image/product/vanilla/vanilla_tahiti_grade_a/1.jpeg",
+                    "data_sub_category": "Tahiti",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_a/1.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_a/2.jpeg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_a/3.jpeg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "18 cm",
+                            "key_id": "Ukuran", 
+                            "value_id": "18 cm"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Dark chocolate/Black",
+                            "key_id": "Warna", 
+                            "value_id": "Dark chocolate/Black"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "25% - 35%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "25% - 35%"
+                        }
+                    ],
+                    "hscode": "09051000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Aroma yang unik dan harum membuat produk ini menjadi salah satu komoditas alam yang paling berharga di dunia",
+                            "desc_en": "Heavenly flavor and aroma makes this ingredient one of the most precious natural commodities in the world"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Tak hanya kaya rasa, Vanila juga sangat kaya akan sejarah. Dari suku Aztec pada abad ke-15 hingga Perancis pada tahun 1800, vanila menjadi salah satu komoditas alam paling berharga yang hingga saat ini lebih dari 50% diekspor dari Indonesia. Varian Tahiti sendiri konon merupakan hasil persilangan antara Planifolia dan Odorata.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura, dan negara lainnya",
+                            "story_en": "Not only rich in flavor, Vanilla is also very rich in history. From Aztec in 15th century to France in 1800, vanilla becomes one of the most precious natural commodities which to this day more than 50% are supplied from Indonesia. Tahiti variant itself is said to be product of cross cultivation between Planifolia and Odorata.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Beans Tahiti Grade B",
+                    "image": "/assets/image/product/vanilla/vanilla_tahiti_grade_b/1.jpg",
+                    "data_sub_category": "Tahiti",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_b/1.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_b/2.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_b/3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "16cm - 18cm",
+                            "key_id": "Ukuran", 
+                            "value_id": "16cm - 18cm"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Dark brown with brown veins",
+                            "key_id": "Warna", 
+                            "value_id": "Coklat tua dengan urat coklat"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "15% - 20%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "15% - 20%"
+                        }
+                    ],
+                    "hscode": "09051000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Aroma yang unik dan harum membuat produk ini menjadi salah satu komoditas alam yang paling berharga di dunia",
+                            "desc_en": "Heavenly flavor and aroma makes this ingredient one of the most precious natural commodities in the world"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Tak hanya kaya rasa, Vanila juga sangat kaya akan sejarah. Dari suku Aztec pada abad ke-15 hingga Perancis pada tahun 1800, vanila menjadi salah satu komoditas alam paling berharga yang hingga saat ini lebih dari 50% diekspor dari Indonesia. Varian Tahiti sendiri konon merupakan hasil persilangan antara Planifolia dan Odorata.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura, dan negara lainnya",
+                            "story_en": "Not only rich in flavor, Vanilla is also very rich in history. From Aztec in 15th century to France in 1800, vanilla becomes one of the most precious natural commodities which to this day more than 50% are supplied from Indonesia. Tahiti variant itself is said to be product of cross cultivation between Planifolia and Odorata.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Beans Tahiti Grade C",
+                    "image": "/assets/image/product/vanilla/vanilla_tahiti_grade_c/1.jpg",
+                    "data_sub_category": "Tahiti",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_c/1.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_c/2.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_tahiti_grade_c/3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "15 - 15,9 cm",
+                            "key_id": "Ukuran", 
+                            "value_id": "15 - 15,9 cm"
+                        },
+                        {
+                            "key_en": "Color", 
+                            "value_en": "Dark brown with brown veins",
+                            "key_id": "Warna", 
+                            "value_id": "Coklat tua dengan urat coklat"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "10% - 15%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "10% - 15%"
+                        }
+                    ],
+                    "hscode": "09051000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Aroma yang unik dan harum membuat produk ini menjadi salah satu komoditas alam yang paling berharga di dunia",
+                            "desc_en": "Heavenly flavor and aroma makes this ingredient one of the most precious natural commodities in the world"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Tak hanya kaya rasa, Vanila juga sangat kaya akan sejarah. Dari suku Aztec pada abad ke-15 hingga Perancis pada tahun 1800, vanila menjadi salah satu komoditas alam paling berharga yang hingga saat ini lebih dari 50% diekspor dari Indonesia. Varian Tahiti sendiri konon merupakan hasil persilangan antara Planifolia dan Odorata.\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura, dan negara lainnya",
+                            "story_en": "Not only rich in flavor, Vanilla is also very rich in history. From Aztec in 15th century to France in 1800, vanilla becomes one of the most precious natural commodities which to this day more than 50% are supplied from Indonesia. Tahiti variant itself is said to be product of cross cultivation between Planifolia and Odorata.\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "product_name": "Vanilla",
+                    "name": "Vanilla Powder Tahiti",
+                    "image": "/assets/image/product/vanilla/vanilla_powder_tahiti/1.jpg",
+                    "data_sub_category": "Tahiti",
+                    "varian": ["Black", "Dark Brown"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/vanilla/vanilla_powder_tahiti/1.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_powder_tahiti/2.jpg"},
+                        {"image": "/assets/image/product/vanilla/vanilla_powder_tahiti/3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Size", 
+                            "value_en": "Mesh 60",
+                            "key_id": "Ukuran", 
+                            "value_id": "Mesh 60"
+                        },
+                        {
+                            "key_en": "Moisture", 
+                            "value_en": "5-7%",
+                            "key_id": "Kelembapan", 
+                            "value_id": "5-7%"
+                        },
+                        {
+                            "key_en": "Vanilin", 
+                            "value_en": "<1%",
+                            "key_id": "Vanilin", 
+                            "value_id": "<1%"
+                        }
+                    ],
+                    "hscode": "09052000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Aroma yang unik dan harum membuat produk ini menjadi salah satu komoditas alam yang paling berharga di dunia",
+                            "desc_en": "Heavenly flavor and aroma makes this ingredient one of the most precious natural commodities in the world"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Tak hanya kaya rasa, Vanila juga sangat kaya akan sejarah. Dari suku Aztec pada abad ke-15 hingga Perancis pada tahun 1800, vanila menjadi salah satu komoditas alam paling berharga yang hingga saat ini lebih dari 50% diekspor dari Indonesia. Varian Tahiti sendiri konon merupakan hasil persilangan antara Planifolia dan Odorata.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Jerman, India, Singapura, dan negara lainnya",
+                            "story_en": "Not only rich in flavor, Vanilla is also very rich in history. From Aztec in 15th century to France in 1800, vanilla becomes one of the most precious natural commodities which to this day more than 50% are supplied from Indonesia. Tahiti variant itself is said to be product of cross cultivation between Planifolia and Odorata.\n\nGlobal coverage of shipment with satisfied clients from: USA, German, India, Singapore and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productL0": {
+            "name": "Kratom",
+            "image": "/assets/image/product/kratom_powder/1.jpg",
+            "code_lang": "products-list.kratom",
+            "show_sub_category": false,
+            "data_sub_categories": "",
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 13,
+                    "product_name": "Kratom",
+                    "name": "Kratom Powder",
+                    "image": "/assets/image/product/kratom_powder/1.jpg",
+                    "data_sub_category": "",
+                    "varian": ["Red", "White", "Green"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/kratom_powder/1.jpg"},
+                        {"image": "/assets/image/product/kratom_powder/2.jpg"},
+                        {"image": "/assets/image/product/kratom_powder/3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Earthy, slightly astringent, and bitter",
+                            "key_id": "Rasa & Aroma", 
+                            "value_id": "Sedikit sepat, dan pahit"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Jenis Produk",
+                            "key_id": "Product Type", 
+                            "value_id": "Bubuk dengan kehalusan seragam"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Smooth & Dry",
+                            "key_id": "Tekstur", 
+                            "value_id": "Halus & Kering"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<3%",
+                            "key_id": "Kadar Air", 
+                            "value_id": "<3%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Penanganan/Penyimpanan", 
+                            "value_id": "Pada suhu ruangan (maks 25 celcius) tutup rapat, hindari sinar matahari langsung"
+                        }
+                    ],
+                    "hscode": "12112090",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Kratom Indonesia terkenal dengan aromanya yang unik dan efek rileks yang diberikan, hanya ada di Kalimantan Barat",
+                            "desc_en": "Indonesia's Kratom, famous for unique aroma and relaxing aftertaste only found in West Kalimantan"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Meskipun industri kratom di Indonesia baru dimulai pada akhir tahun 2007, komoditas ini selalu dihargai tinggi karena berbagai manfaat kesehatannya dan diyakini memenuhi sebagian besar permintaan dunia saat ini. Di Indonesia, Kratom kami sebagian besar diproduksi di wilayah Sumatera dan Kalimantan Barat yang melibatkan ribuan petani.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Cina, India, dan negara lainnya",
+                            "story_en": "While Indonesia's kratom industry started quite late in 2007, this commodities has always been valued for its various medical benefits and believed to source most of the world's current demand. In Indonesia, our Kratom mostly produced by Sumatra and West Kalimantan region which involved thousands of farmers.\n\nGlobal coverage of shipment with satisfied clients from: USA, China, India, and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    }, 
+    {
+        "productL0": {
+            "name": "Andaliman Pepper",
+            "image": "/assets/image/product/andaliman/fresh/1.jpg",
+            "code_lang": "products-list.andaliman",
+            "show_sub_category": false,
+            "data_sub_categories": "",
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 14,
+                    "product_name": "Andaliman Pepper",
+                    "name": "Andaliman Pepper Fresh",
+                    "image": "/assets/image/product/andaliman/fresh/1.jpg",
+                    "data_sub_category": "",
+                    "varian": ["Red", "White", "Green"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/andaliman/fresh/1.jpg"},
+                        {"image": "/assets/image/product/andaliman/fresh/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Citrusy and lemony notes, with a slight tangy taste",
+                            "key_id": "Rasa & Aroma", 
+                            "value_id": "Aroma jeruk dan lemon, dengan sedikit rasa tajam"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Berries, with diameter of 3-5mm, reddish to dark brown",
+                            "key_id": "Jenis Produk", 
+                            "value_id": "Buah beri, diameter 3-5 mm, kemerahan hingga coklat tua"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Firm & Slightly Brittle",
+                            "key_id": "Tekstur", 
+                            "value_id": "Keras & Sedikit Rapuh"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Kadar Air", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Penanganan/Penyimpanan", 
+                            "value_id": "Pada suhu ruangan (maks 25 celcius) tutup rapat, hindari sinar matahari langsung"
+                        }
+                    ],
+                    "hscode": "09041110",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Dikenal dengan aroma jeruknya, lada ini cocok untuk masakan bertema Timur dan banyak kegunaan lainnya",
+                            "desc_en": "Known for its orange aroma, this pepper is suitable for Eastern theme dishes and many other usage"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Dikenal juga dengan nama \"Lada/Merica Batak\" di Indonesia, komoditas rempah-rempah ini dikenal dengan citarasanya yang sangat pedas, populer di industri makanan khususnya di Jerman.\n\nSiap ekspor global, dengan klien yang puas dari: Jerman dan negara lainnya",
+                            "story_en": "Also known as `Lada/Merica Batak` in Indonesia, this spice commodity is known for its very spicy flavor, a niche in food industry especially in Germany.\n\nGlobal coverage of shipment with satisfied clients from: Germany and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "product_name": "Andaliman Pepper",
+                    "name": "Andaliman Pepper Powder",
+                    "image": "/assets/image/product/andaliman/powder/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/andaliman/powder/1.jpg"},
+                        {"image": "/assets/image/product/andaliman/powder/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Citrusy and lemony notes, with a slight tangy taste",
+                            "key_id": "Rasa & Aroma", 
+                            "value_id": "Aroma jeruk dan lemon, dengan sedikit rasa tajam"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Powder with uniform fineness",
+                            "key_id": "Jenis Produk", 
+                            "value_id": "Bubuk dengan kehalusan seragam"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Smooth & Dry",
+                            "key_id": "Tekstur", 
+                            "value_id": "Halus & Kering"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Kadar Air", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Penanganan/Penyimpanan", 
+                            "value_id": "Pada suhu ruangan (maks 25 celcius) tutup rapat, hindari sinar matahari langsung"
+                        }
+                    ],
+                    "hscode": "9041290",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Dikenal dengan aroma jeruknya, lada ini cocok untuk masakan bertema Timur dan banyak kegunaan lainnya",
+                            "desc_en": "Known for its orange aroma, this pepper is suitable for Eastern theme dishes and many other usage"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Dikenal juga dengan nama \"Lada/Merica Batak\" di Indonesia, komoditas rempah-rempah ini dikenal dengan citarasanya yang sangat pedas, populer di industri makanan khususnya di Jerman.\n\nSiap ekspor global, dengan klien yang puas dari: Jerman dan negara lainnya",
+                            "story_en": "Also known as `Lada/Merica Batak` in Indonesia, this spice commodity is known for its very spicy flavor, a niche in food industry especially in Germany.\n\nGlobal coverage of shipment with satisfied clients from: Germany and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    }, 
+    {
+        "productL0": {
+            "name": "Cinnamon",
+            "image": "/assets/image/product/cinnamon/powder/1.jpg",
+            "code_lang": "products-list.cinnamon",
+            "show_sub_category": false,
+            "data_sub_categories": "",
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 16,
+                    "product_name": "Cinnamon",
+                    "name": "Cinnamon Bubuk",
+                    "image": "/assets/image/product/cinnamon/powder/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/cinnamon/powder/1.jpg"},
+                        {"image": "/assets/image/product/cinnamon/powder/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Sweet and woody flavour & slightly citrusy scent",
+                            "key_id": "Rasa & Aroma", 
+                            "value_id": "Rasa manis dan kayu & aroma sedikit jeruk"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Smooth & Dry",
+                            "key_id": "Tekstur", 
+                            "value_id": "Halus & Kering"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Powder with uniform fineness",
+                            "key_id": "Jenis Produk", 
+                            "value_id": "Bubuk dengan kehalusan seragam"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Kadar Air", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Penanganan/Penyimpanan", 
+                            "value_id": "Pada suhu ruangan (maks 25 celcius) tutup rapat, hindari sinar matahari langsung"
+                        }
+                    ],
+                    "hscode": "09062000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Kaya akan aroma dan kegunaannya, Kayu Manis kami ditanam di Sumatera (Kerinci) dan populer sebagai bahan makanan, kosmetik dan terapi",
+                            "desc_en": "Rich in both aroma and application, our Cinnamon is grown in Sumatra (Kerinci) and popular as food ingredients, cosmetic and theraphy"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Kayu manis yang ditanam di Kerinci, Indonesia sangat populer di industri rempah-rempah sebagai komoditas kualitas terbaik karena iklimnya yang cocok dan upaya dari petani lokal.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Belanda, Jerman, Singapura, dan negara lainnya",
+                            "story_en": "Cinnamon grown in Kerinci, Indonesia is very popular in spice industry as the top quality commodities due to its suitable climate and efforts of local farmers.\n\nGlobal coverage of shipment with satisfied clients from: USA, Netherlands, Germany, Singapore, and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "product_name": "Cinnamon",
+                    "name": "Cinnamon Stick",
+                    "image": "/assets/image/product/cinnamon/stick/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/cinnamon/stick/1.jpg"},
+                        {"image": "/assets/image/product/cinnamon/stick/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Sweet, spicy and woody flavour & slightly citrusy aroma",
+                            "key_id": "Rasa & Aroma", 
+                            "value_id": "Rasa manis, pedas dan berkayu & aroma sedikit jeruk"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Thick Skin & Dry",
+                            "key_id": "Tekstur", 
+                            "value_id": "Kulit Tebal & Kering"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Pieces of wood with variative size, average 7-10cm",
+                            "key_id": "Jenis Produk", 
+                            "value_id": "Potongan kayu dengan ukuran bervariasi, rata-rata 7-10cm"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Kadar Air", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Penanganan/Penyimpanan", 
+                            "value_id": "Pada suhu ruangan (maks 25 celcius) tutup rapat, hindari sinar matahari langsung"
+                        }
+                    ],
+                    "hscode": "09061100",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Kaya akan aroma dan kegunaannya, Kayu Manis kami ditanam di Sumatera (Kerinci) dan populer sebagai bahan makanan, kosmetik dan terapi",
+                            "desc_en": "Rich in both aroma and application, our Cinnamon is grown in Sumatra (Kerinci) and popular as food ingredients, cosmetic and theraphy"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Kayu manis yang ditanam di Kerinci, Indonesia sangat populer di industri rempah-rempah sebagai komoditas kualitas terbaik karena iklimnya yang cocok dan upaya dari petani lokal.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Belanda, Jerman, Singapura, dan negara lainnya",
+                            "story_en": "Cinnamon grown in Kerinci, Indonesia is very popular in spice industry as the top quality commodities due to its suitable climate and efforts of local farmers.\n\nGlobal coverage of shipment with satisfied clients from: USA, Netherlands, Germany, Singapore, and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productL0": {
+            "name": "Clove",
+            "image": "/assets/image/product/clove/clove/1.jpg",
+            "code_lang": "products-list.clove",
+            "show_sub_category": false,
+            "data_sub_categories": "",
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 18,
+                    "product_name": "Clove",
+                    "name": "Clove",
+                    "image": "/assets/image/product/clove/clove/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/clove/clove/1.jpg"},
+                        {"image": "/assets/image/product/clove/clove/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Sweet flavor with a slight note of bitterness and Aromatic scent",
+                            "key_id": "Taste & Aroma", 
+                            "value_id": "Sweet flavor with a slight note of bitterness and Aromatic scent"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Rough, and irregulary wrinkled longitudinally with short fracture, dry & woody",
+                            "key_id": "Texture", 
+                            "value_id": "Rough, and irregulary wrinkled longitudinally with short fracture, dry & woody"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Seeds of the unit with flower and stalks",
+                            "key_id": "Product Type", 
+                            "value_id": "Seeds of the unit with flower and stalks"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<14%",
+                            "key_id": "Moisture Content", 
+                            "value_id": "<14%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Handling/Storage", 
+                            "value_id": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight"
+                        }
+                    ],
+                    "hscode": "09071000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Karena popularitasnya di Indonesia, petani lokal kami sangat mahir dalam budidaya Cengkeh dan menghasilkan cengkeh berkualitas tinggi",
+                            "desc_en": "Due to its popularity in Indonesia, our local farmer are very proficient with its cultivation and resulting in top quality clove"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Cengkeh Indonesia sangat populer di bidang farmasi, kosmetik, rokok, saus dan banyak industri lainnya karena kaya manfaat dan aman digunakan.\n\nSiap ekspor global, dengan klien yang puas dari: India, Vietnam, Arab Saudi, dan negara lainnya",
+                            "story_en": "Indonesia's clove is very popular in pharmacy, cosmetic, cigarrete, sauce and many other industry due its rich benefits and safe usage.\n\nGlobal coverage of shipment with satisfied clients from: India, Vietnam, Saudi Arabia, and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "product_name": "Clove",
+                    "name": "Clove Powder",
+                    "image": "/assets/image/product/clove/powder/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/clove/powder/1.jpg"},
+                        {"image": "/assets/image/product/clove/powder/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Subtly sweet flavour with aromatic scent",
+                            "key_id": "Taste & Aroma", 
+                            "value_id": "Subtly sweet flavour with aromatic scent"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Smooth & Dry",
+                            "key_id": "Texture", 
+                            "value_id": "Smooth & Dry"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Powder with uniform fineness",
+                            "key_id": "Product Type", 
+                            "value_id": "Powder with uniform fineness"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Moisture Content", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 30 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Handling/Storage", 
+                            "value_id": "At room temperature (max 30 celcius) tightly closed, avoid direct sunlight"
+                        }
+                    ],
+                    "hscode": "09072000",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Karena popularitasnya di Indonesia, petani lokal kami sangat mahir dalam budidaya Cengkeh dan menghasilkan cengkeh berkualitas tinggi",
+                            "desc_en": "Due to its popularity in Indonesia, our local farmer are very proficient with its cultivation and resulting in top quality clove"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Cengkeh Indonesia sangat populer di bidang farmasi, kosmetik, rokok, saus dan banyak industri lainnya karena kaya manfaat dan aman digunakan.\nSiap ekspor global, dengan klien yang puas dari: India, Vietnam, Arab Saudi, dan negara lainnya",
+                            "story_en": "Indonesia's clove is very popular in pharmacy, cosmetic, cigarrete, sauce and many other industry due its rich benefits and safe usage.\nGlobal coverage of shipment with satisfied clients from: India, Vietnam, Saudi Arabia, and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productL0": {
+            "name": "Ginger",
+            "image": "/assets/image/product/ginger/powder/1.jpg",
+            "code_lang": "products-list.ginger",
+            "show_sub_category": false,
+            "data_sub_categories": "",
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 20,
+                    "product_name": "Ginger",
+                    "name": "Dried Red Ginger",
+                    "image": "/assets/image/product/ginger/red_ginger/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/ginger/red_ginger/1.jpg"},
+                        {"image": "/assets/image/product/ginger/red_ginger/2.jpg"},
+                        {"image": "/assets/image/product/ginger/red_ginger/3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Warm, spicy with aromatic scent",
+                            "key_id": "Taste & Aroma", 
+                            "value_id": "Warm, spicy with aromatic scent"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Coarse & Dry",
+                            "key_id": "Texture", 
+                            "value_id": "Coarse & Dry"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Pieces of freshly cutted gingers with variaty of size and free from foreign object",
+                            "key_id": "Product Type", 
+                            "value_id": "Pieces of freshly cutted gingers with variaty of size and free from foreign object"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Moisture Content", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Handling/Storage", 
+                            "value_id": "At room temperature (max 25 celcius) tightly closed, avoid direct sunlight"
+                        }
+                    ],
+                    "hscode": "09101100",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Produk lokal yang sangat populer karena manfaat kesehatan dan rasa hangatnya, menjadikan Jahe sebagai produk ekspor pilihan bagi banyak industri",
+                            "desc_en": "Very popular local product due its health benefits and warm aftertaste, making Ginger a export product of choice for many industry"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Salah satu produk Indonesia yang paling banyak dibudidayakan dan diolah karena manfaatnya dan kemudahan pengaplikasiannya.\n\nSiap kirim ke Malaysia, Jepang, India, dan masih negara lainnya",
+                            "story_en": "One of Indonesia's most common product to be cultivated and processed due to its benefits and many easy application.\n\nGlobal coverage of shipment with satisfied clients from: Malaysia, Japan, India, and many others"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "product_name": "Ginger",
+                    "name": "Ginger Powder",
+                    "image": "/assets/image/product/ginger/powder/1.jpg",
+                    "data_sub_category": "",
+                    "varian": [],
+                    "detail_image": [
+                        {"image": "/assets/image/product/ginger/powder/1.jpg"},
+                        {"image": "/assets/image/product/ginger/powder/2.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Warm, sweet-spicy, floral and slightly peppery with aromatic scent",
+                            "key_id": "Taste & Aroma", 
+                            "value_id": "Warm, sweet-spicy, floral and slightly peppery with aromatic scent"
+                        },
+                        {
+                            "key_en": "Texture", 
+                            "value_en": "Smooth & Dry",
+                            "key_id": "Texture", 
+                            "value_id": "Smooth & Dry"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Powder with uniform fineness",
+                            "key_id": "Product Type", 
+                            "value_id": "Powder with uniform fineness"
+                        },
+                        {
+                            "key_en": "Moisture Content", 
+                            "value_en": "<12%",
+                            "key_id": "Moisture Content", 
+                            "value_id": "<12%"
+                        },
+                        {
+                            "key_en": "Handling/Storage", 
+                            "value_en": "SAt room temperature (max 25 celcius) tightly closed, avoid direct sunlight",
+                            "key_id": "Handling/Storage", 
+                            "value_id": "SAt room temperature (max 25 celcius) tightly closed, avoid direct sunlight"
+                        }
+                    ],
+                    "hscode": "09101200",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Produk lokal yang sangat populer karena manfaat kesehatan dan rasa hangatnya, menjadikan Jahe sebagai produk ekspor pilihan bagi banyak industri",
+                            "desc_en": "Very popular local product due its health benefits and warm aftertaste, making Ginger a export product of choice for many industry"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Salah satu produk Indonesia yang paling banyak dibudidayakan dan diolah karena manfaatnya dan kemudahan pengaplikasiannya.\n\nSiap kirim ke Malaysia, Jepang, India, dan masih negara lainnya",
+                            "story_en": "One of Indonesia's most common product to be cultivated and processed due to its benefits and many easy application.\n\nGlobal coverage of shipment with satisfied clients from: Malaysia, Japan, India, and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productL0": {
+            "name": "Virgin Coconut Oil",
+            "image": "/assets/image/product/VCO/VCO1.jpg",
+            "code_lang": "products-list.virgin",
+            "show_sub_category": false,
+            "data_sub_categories": "",
+            "is_coming_soon": false,
+            "productL1": [
+                {
+                    "id": 22,
+                    "product_name": "Virgin Coconut Oil",
+                    "name": "Virgin Coconut Oil Packaged",
+                    "image": "/assets/image/product/VCO/VCO1.jpg",
+                    "data_sub_category": "",
+                    "varian": ["250Ml", "500Ml", "1000Ml", "19000Ml"],
+                    "detail_image": [
+                        {"image": "/assets/image/product/VCO/VCO1.jpg"},
+                        {"image": "/assets/image/product/VCO/VCO2.jpg"},
+                        {"image": "/assets/image/product/VCO/VCO3.jpg"}
+                    ],
+                    "detail": [
+                        {
+                            "key_en": "Taste & Aroma", 
+                            "value_en": "Delicate flavour, mild aroma, silky thin consistency",
+                            "key_id": "Taste & Aroma", 
+                            "value_id": "Delicate flavour, mild aroma, silky thin consistency"
+                        },
+                        {
+                            "key_en": "Product Type", 
+                            "value_en": "Processed with fermentation and/or centrifuged method, Lauric Acid >50%",
+                            "key_id": "Product Type", 
+                            "value_id": "Processed with fermentation and/or centrifuged method, Lauric Acid >50%"
+                        },
+                        {
+                            "key_en": "Shelf Life", 
+                            "value_en": "36 months, if stored in a clean, cool and dry place",
+                            "key_id": "Shelf Life", 
+                            "value_id": "36 months, if stored in a clean, cool and dry place"
+                        },
+                        {
+                            "key_en": "Capacity", 
+                            "value_en": "10 Metrix Tons/month",
+                            "key_id": "Capacity", 
+                            "value_id": "10 Metrix Tons/month"
+                        }
+                    ],
+                    "hscode": "15131110",
+                    "min_order": "1 MT (Metric Ton)",
+                    "product_desc": [
+                        {
+                            "desc_id": "Terbuat dari kelapa fresh, dengan proses pengolahan bebas bahan kimia. Ada pula yang menggunakannya untuk obat atau sebagai bahan dapur",
+                            "desc_en": "Made from fresh coconut ingredients, along with chemical-free processing. Some use it for food ingredients and pharmacy"
+                        }
+                    ],
+                    "product_story": [
+                        {
+                            "story_id": "Dengan bahan alami dan pengolahan bebas bahan kimia, Virgin Coconut Oil kami akan selalu dikirimkan dalam keadaan segar untuk Anda.\n\nSiap ekspor global, dengan klien yang puas dari: Amerika Serikat, Tiongkok, Rusia, dan negara lainnya",
+                            "story_en": "With natural ingredients and chemical-free processing, our Virgin Coconut Oil will always be delivered fresh to you.\n\nGlobal coverage of shipment with satisfied clients from: USA, Tiongkok, Russia, and many others"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

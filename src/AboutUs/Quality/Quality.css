@@ -1,0 +1,140 @@
+.quality {
+    background-color: white;
+    position: relative;
+}
+
+.quality-info-one {
+    background-color: white;
+    padding: 10% 0;
+    height: 60vh;
+}
+
+.quality-info-two {
+    background-color: #CB9173;
+    height: 70vh;
+}
+
+.quality-info-image-one {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    background-size: cover;
+    background-position: top;
+    background-image: url(/assets/image/about/about-bg2.jpg);
+}
+
+.quality-info-image-two {
+    position: absolute;
+    top: 320px;
+    right: 0;
+    width: 55%;
+    height: 40%;
+    background-size: cover;
+    background-position: top;
+    background-image: url(/assets/image/about/about-bg3.jpg);
+}
+
+.quality-info-text-one {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 55%;
+    height: 20%;
+}
+
+.quality-info-text-one-title {
+    display: block;
+    font-size: 24px;
+    font-weight: 800;
+    color: black;
+}
+
+.quality-info-text-one-subtitle {
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    padding-top: 5px;
+    width: 90%;
+}
+
+.quality-info-text-two {
+    position: absolute;
+    bottom: 50px;
+    left: 50;
+    width: 80%;
+    margin: 0 10%;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+/* ====================   Mobile  ==================== */
+@media (min-width: 1024px) {
+    /* .quality-info-two {
+        height: 50vh;
+    } */
+
+    .quality-info-image-two {
+        top: 400px;
+    }
+}
+
+@media (max-width: 991px) {
+    .quality-info-text-one {
+        width: 100%;
+        display: block;
+    }
+
+    .quality-info-image-one {
+        top: 480px;
+        height: 20%;
+    }
+
+    .quality-info-image-two {
+        top: 550px;
+        height: 20%;
+    }
+
+    .quality-info-one {
+        height: 100vh;
+        padding: 0;
+    }
+
+    .quality-info-two {
+        height: 35vh;
+    }
+
+    .quality-info-text-two {
+        font-size: 20px;
+        text-align: center;
+        width: auto;
+        margin: 0;
+    }
+
+    .quality-info-text-one-title {
+        font-size: 20px;
+        font-weight: 800;
+        text-align: center;
+        padding: 0 10%;
+    }
+
+    .quality-info-text-one-subtitle {
+        font-size: 16px;
+        font-weight: 400;
+        padding: 10%;
+        text-align: center;
+        width: 80%;
+    }
+}
+
+@media (max-width: 375px) {
+    .quality-info-two {
+        height: 47vh;
+    }
+
+    .quality-info-one {
+        padding: 20% 0;
+    }
+}

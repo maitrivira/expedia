@@ -1,0 +1,27 @@
+.descriptions {
+    color: black;
+    padding: 2% 7.5%;
+    background-color: white;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+}
+
+.desc-title {
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    padding-bottom: 4px;
+}
+
+.descriptions-story1 {
+    padding: 0 0 40px 0;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .descriptions {
+        padding: 16px;
+    }
+}

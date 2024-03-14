@@ -1,0 +1,47 @@
+.founded {
+    height: 100vh;
+    position: relative;
+    background-image: url(/assets/image/about/about-bg5.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.founded-text {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+}
+
+.fonded-text-title {
+    display: block;
+    color: #6DB166;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.fonded-text-subtitle {
+    display: block;
+    color: black;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .founded {
+        background-position: right 150px;
+    }
+
+    .fonded-text-title {
+        text-align: center;
+    }
+
+    .fonded-text-subtitle {
+        font-size: 18px;
+        padding-top: 10px;
+        text-align: center;
+    }
+}

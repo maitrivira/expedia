@@ -1,0 +1,6 @@
+.about-bg-section-two {
+    height: 100vh;
+    background-size: cover;
+    background-position: top;
+    background-image: url(../assets/image/about/about-bg1.jpg);
+}

@@ -1,0 +1,62 @@
+{
+    "search": {
+        "title": "Temukan produk kami di sini..."
+    },
+    "detail": {
+        "variant": "Varian",
+        "description": "Deskripsi",
+        "story": "Kisah dari",
+        "other": "Lainnya"
+    },
+    "navbar": {
+        "home": "Beranda",
+        "product": "Produk",
+        "about": "Tentang kami",
+        "category": "KATEGORI"
+    },
+    "header": {
+        "title": "Satu platform terbaik untuk pesan komoditas alam Indonesia yang segar dan berkualitas tinggi",
+        "order-button": "Pesan sekarang"
+    },
+    "company-greeting": {
+        "company-welcome": "Selamat datang di Expedia!",
+        "company-title-we": "Expedia adalah ",
+        "company-title-quality": "website untuk memesan komoditas alam Indonesia berkualitas tinggi, ",
+        "company-title-parner": "bekerja sama dengan 2000+ petani lokal untuk memberikan Anda pengalaman ekspor global terbaik"
+    },
+    "company-rating": {
+        "quality-assurance": "Garansi kualitas",
+        "customer-satisfaction": "Kepuasan Pelanggan",
+        "integrity": "Integritas & Transparansi"
+    },
+    "products": {
+        "our-products": "Produk Kami"
+    },
+    "products-list": {
+        "andaliman": "Andaliman",
+        "briquette": "Briquette",
+        "cinnamon": "Kayu Manis",
+        "clove": "Cengkeh",
+        "durian": "Durian",
+        "ginger": "Jahe",
+        "kratom": "Kratom",
+        "vanilla": "Vanila",
+        "virgin": "Virgin Coconut Oil"
+    },
+    "footer": {
+        "title": "Pesan sekarang dan dapatkan komoditas alami, segar dan berkualitas terbaik.",
+        "product": "PRODUK",
+        "about-us": "TENTANG KAMI",
+        "about-us2": "Tentang Kami",
+        "catalog": "Download Catalog"
+    },
+    "aboutus": {
+        "title": "Mulai bisnismu bersama Expedia Indonesia Group",
+        "subtitle": "Expedia didirikan pada tahun 2023 dengan visi untuk menghubungkan 2000+ mitra lokal kami (petani dan supplier) di Indonesia ke pelanggan skala global melalui satu website. Kami siap mengakomodasi kebutuhan Anda untuk komoditas alami segar dan berkualitas tinggi yang dipelihara dengan teknologi terkini untuk memastikan produk terbaik.",
+        "quality-title": "Kualitas & kesegaran lokal, siap dikirim global",
+        "quality-subtitle": "Kami percaya bahwa kepedulian hal utama dalam bisnis. Kami telah memberikan peluang ekspor skala kecil hingga menengah kepada rekanan petani dengan banyak pilihan komoditas dengan harga yang adil dan kompetitif seperti Durian, Vanila, Jamu dan Rempah-rempah. Kepedulian juga kami terapkan kepada komunitas petani dan lingkungan alam sekitar, agar keduanya selalu terjaga dengan baik.",
+        "quality-subtitle2": "Dipilih langsung oleh petani kami, kami dengan bangga menyediakan buah-buahan berkualitas tinggi dan komoditas alami lainnya untuk memberikan Anda pengalaman cita rasa asli Indonesia.",
+        "quality-customer": "Expedia memiliki visi di Indonesia untuk meningkatkan komoditas alam yang bernilai tinggi di pasar global. Kami mendirikan Expedia untuk membantu menyederhanakan proses industri lokal, meningkatkan kualitas produk sesuai dengan standar global sehingga menciptakan lingkungan bisnis yang lebih menguntungkan dan berkelanjutan di kalangan petani Indonesia. Peningkatan kualitas ini tidak hanya akan membuat pengalaman transaksi bagi pelanggan global kami menjadi lebih baik, namun juga memastikan komisi yang adil bagi petani dengan peninjauan dan peningkatan kualitas yang berkelanjutan.",
+        "quality-title2": "Experience the authentic taste of Indonesia with Expedia"
+    }
+}

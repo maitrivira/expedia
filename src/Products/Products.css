@@ -1,0 +1,6 @@
+.products {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    z-index: 3;
+}

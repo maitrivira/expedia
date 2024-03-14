@@ -1,0 +1,82 @@
+.customer {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url(/assets/image/customer/customer-img1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 0 8%;
+}
+
+.customer-image {
+    width: 25%;
+    height: 40%;
+    background-image: url(/assets/image/customer/customer-img2.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.customer-comment {
+    width: 60%;
+}
+
+.customer-comment-info-name {
+    display: block;
+}
+
+.customer-comment-info-title {
+    display: block;
+}
+
+.customer-comment-info {
+    padding-top: 20px;
+}
+
+.customer-comment-text {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.customer-comment-info-name {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.customer-comment-info-title {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* ====================   Mobile  ==================== */
+@media (max-width: 991px) {
+    .customer {
+        align-items: normal;
+        padding: 0;
+        height: auto;
+    }
+
+    .customer-image {
+        margin-top: 40px;
+        width: 193px;
+        height: 193px;
+    }
+
+    .customer-comment {
+        padding-top: 100px;
+        padding-bottom: 140px;
+        width: 90%;
+        display: block;
+    }
+
+    .text-box {
+        text-align: center;
+    }
+
+    .customer-comment-text, .customer-comment-info-name, .customer-comment-info-title {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,19 @@
+.breadcrums {
+    background-color: white;
+    padding-top: 120px;
+    padding-bottom: 5px;
+    padding-left: 120px;
+    padding-right: 120px;
+    color: #6D7588;
+}
+
+.chevron {
+    width: 10px;
+    height: 10px;
+    margin-right: 12px;
+    margin-left: 12px;
+}
+
+.breadcrums-subproduct {
+    color: #212121;
+}

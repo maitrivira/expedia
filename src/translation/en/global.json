@@ -1,0 +1,62 @@
+{
+    "search": {
+        "title": "Search our products here..."
+    },
+    "detail": {
+        "variant": "Variant",
+        "description": "Description",
+        "story": "Story of",
+        "other": "Other"
+    },
+    "navbar": {
+        "home": "Home",
+        "product": "Product",
+        "about": "About Us",
+        "category": "CATEGORY"
+    },
+    "header": {
+        "title": "One stop platform to order fresh, high quality natural commodities of Indonesia",
+        "order-button": "Order Now"
+    },
+    "company-greeting": {
+        "company-welcome": "Welcome to Expedia!",
+        "company-title-we": "We are your ",
+        "company-title-quality": "one stop platform to order high quality natural commodities ",
+        "company-title-parner": "of Indonesia, in a partnership with 2000+ local farmers to provide you a seamless global export experience"
+    },
+    "company-rating": {
+        "quality-assurance": "Quality Assurance",
+        "customer-satisfaction": "Customer Satisfaction",
+        "integrity": "Integrity & Transparency"
+    },
+    "products": {
+        "our-products": "Our Products"
+    },
+    "products-list": {
+        "andaliman": "Andaliman Pepper",
+        "briquette": "Briquette",
+        "cinnamon": "Cinnamon",
+        "clove": "Clove",
+        "durian": "Durian",
+        "ginger": "Ginger",
+        "kratom": "Kratom",
+        "vanilla": "Vanila",
+        "virgin": "Virgin Coconut Oil"
+    },
+    "footer": {
+        "title": "Order now and get your fresh, top quality natural commodities",
+        "product": "Product",
+        "about-us": "ABOUT US",
+        "about-us2": "About US",
+        "catalog": "Download Katalog"
+    },
+    "aboutus": {
+        "title": "Start Fresh with Expedia Indonesia Group",
+        "subtitle": "Expedia was founded in 2023 with vision to connect 2000+ of our local partners (farmers and suppliers) in Indonesia to global customers in one marketplace. We prided ourselves to accomodate your needs of fresh, high quality natural commodities which maintained with latest technology to ensure top-shelf quality products.",
+        "quality-title": "Fresh local quality, delivered globally",
+        "quality-subtitle": "We believe that care is the core. We have been providing our farmers with opportunities of small to medium sized export with a huge selection of trading goods in fair and competitive price such as Durian, Vanilla, Herbs and Spices. This care also applies to the farmers community and nearby natural environment, making sure both are always well maintained.",
+        "quality-subtitle2": "Handpicked by our trusted farmers themselves, we pride ourselves in top quality fruits, herbs, and other natural commodities to provide you an opportunity of a rare, authentic taste of Indonesia.",
+        "quality-customer": "Expedia has a clear vision in Indonesia to upscale our prized natural commodities in global market.  We founded Expedia to seamlessly connect every transaction no matter where you are, in one single platform. Our handpicked products will always come in fresh, and delivered fresh. Together with our local farmers, we continuously develop and integrate cultivation technologies together, ensuring a sustainable business and environment",
+        "quality-title2": "Experience the authentic taste of Indonesia with Expedia"
+    }
+}
